@@ -1,0 +1,72 @@
+﻿<Window x:Class="hw_22._12._2023_buttons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hw_22._12._2023_buttons"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <WrapPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="5 5 5 5">
+            <Grid.ColumnSpan>2</Grid.ColumnSpan>
+            <Button Margin="2">
+                <TextBlock Text="Navy" Foreground="Navy"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Blue" Foreground="Blue"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Aqua" Foreground="Aqua"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Teal" Foreground="Teal"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Olive" Foreground="Olive"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Green" Foreground="Green"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Lime" Foreground="Lime"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Yellow" Foreground="Yellow"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Orange" Foreground="Orange"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Red" Foreground="Red"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Maroon" Foreground="Maroon"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Fuchsia" Foreground="Fuchsia"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Purple" Foreground="Purple"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Black" Foreground="Black"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Silver" Foreground="Silver"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="Gray" Foreground="Gray"/>
+            </Button>
+            <Button Margin="2">
+                <TextBlock Text="White" Foreground="White"/>
+            </Button>
+            
+
+        </WrapPanel>
+    </Grid>
+</Window>
