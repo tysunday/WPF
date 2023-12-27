@@ -1,0 +1,125 @@
+﻿<Window x:Class="hw_26._12._2023_simple_page.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hw_26._12._2023_simple_page"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="400">
+    <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Auto">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition MinHeight="75" Height="*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition MinWidth="75" MaxWidth="150" Width="0.2*"/>
+                <ColumnDefinition MinWidth="250" Width="0.88*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
+                <Label.Background>
+                    <ImageBrush Stretch="UniformToFill" ImageSource="keyboard.jpg"/>
+                </Label.Background>
+            </Label>
+            <StackPanel Grid.Row="1" Margin="0 5 5 5">
+                <Button Margin="5 0 0 0" Content="Main" Foreground="White" HorizontalAlignment="Stretch">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="DarkRed" Offset="0.2"/>
+                            <GradientStop Color="DarkBlue" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+                <Button Margin="5 0 0 0" Content="Services" Foreground="White">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="DarkRed" Offset="0.2"/>
+                            <GradientStop Color="DarkBlue" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+                <Button Margin="5 0 0 0" Content="Excursions" Foreground="White">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="DarkRed" Offset="0.2"/>
+                            <GradientStop Color="DarkBlue" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+                <Button Margin="5 0 0 0" Content="History" Foreground="White">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="DarkRed" Offset="0.2"/>
+                            <GradientStop Color="DarkBlue" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+                <Button Margin="5 0 0 0" Content="News" Foreground="White">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="DarkRed" Offset="0.2"/>
+                            <GradientStop Color="DarkBlue" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+                <Button Margin="5 0 0 0" Content="Contacts" Foreground="White">
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="DarkRed" Offset="0.2"/>
+                            <GradientStop Color="DarkBlue" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+            </StackPanel>
+            <TextBlock Grid.Row="1" Grid.Column="1" TextWrapping="Wrap" Text="Игры и терзания человека
+
+Человек - играющее существо. Мы играем с детства, и игра сопровождает нас всю жизнь. Игры - это способ познания мира, развития навыков и самореализации. Но игры также могут быть источником терзаний.
+
+Игры и познание мира
+
+Игры - это один из первых способов познания мира для ребенка. Играя, ребенок учится взаимодействовать с окружающим миром, развивает воображение и творческие способности. Игры также помогают ребенку понять свои собственные эмоции и чувства.
+
+Например, играя в ролевые игры, ребенок может примерить на себя разные роли и понять, каково это быть кем-то другим. Играя в подвижные игры, ребенок развивает ловкость, координацию и силу. Играя в развивающие игры, ребенок учится решать логические задачи, запоминать новые слова и числа.
+
+Игры полезны и для взрослых. Они помогают нам расслабиться, снять стресс и отдохнуть от повседневных забот. Игры также могут быть источником новых знаний и навыков.
+
+Например, играя в шахматы, мы развиваем логическое мышление. Играя в спортивные игры, мы укрепляем здоровье. Играя в компьютерные игры, мы можем узнать о разных культурах и странах.
+
+Игры и развитие навыков
+
+Игры - это эффективный способ развития навыков. Игры помогают нам развить ловкость, координацию, мышление, память и другие важные навыки.
+
+Например, игра в футбол помогает развить ловкость и координацию. Игра в шахматы помогает развить логическое мышление. Игра в головоломки помогает развить память и внимание.
+
+Игры также помогают нам развить социальные навыки. В играх мы учимся взаимодействовать с другими людьми, сотрудничать и конкурировать.
+
+Например, игра в командные виды спорта помогает развить навыки сотрудничества. Игра в настольные игры помогает развить навыки общения. Игра в ролевые игры помогает развить навыки лидерства.
+
+Игры и самореализация
+
+Игры - это способ самореализации. В играх мы можем проявить себя, показать свои способности и достижения. Игры также помогают нам найти свое место в мире.
+
+Например, игра в шахматы может помочь раскрыть способности к логическому мышлению. Игра в спорт может помочь добиться успеха в соревнованиях. Игра в творческие игры может помочь развить таланты к рисованию, музыке или танцам.
+
+Игры могут быть источником радости и удовольствия. Они могут помочь нам отдохнуть и расслабиться. Но игры также могут быть источником терзаний.
+
+Игры и терзания
+
+Игры могут быть источником зависимости. Люди, которые слишком увлекаются играми, могут потерять контроль над своей жизнью. Они могут перестать уделять внимание работе, учебе и близким людям.
+
+Например, человек, который слишком увлекается компьютерными играми, может перестать общаться с друзьями и семьей, пропускать работу или учебу.
+
+Игры могут быть источником стресса и разочарования. Когда мы проигрываем или не достигаем желаемого результата, мы можем испытывать стресс и разочарование.
+
+Например, человек, который слишком серьезно относится к спортивным соревнованиям, может испытывать стресс и разочарование, когда проигрывает.
+
+Игры могут быть источником агрессии и насилия. Когда мы играем в агрессивные игры, мы можем научиться агрессивному поведению.
+
+Например, игра в компьютерные игры, в которых присутствует насилие, может привести к тому, что человек станет более агрессивным в реальной жизни.
+
+Игры могут быть источником обмана и мошенничества. В некоторых играх разрешено обманывать и мошенничать. Это может привести к развитию таких качеств, как лживость и жадность.
+
+Например, в некоторых компьютерных играх игроки могут использовать читы, чтобы получить преимущество над другими игроками." />
+        </Grid>
+    </ScrollViewer>
+</Window>
