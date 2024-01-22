@@ -1,0 +1,45 @@
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.csproj.AssemblyReference.cache
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.csproj.SuggestedBindingRedirects.cache
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\FindWindow.g.cs
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\MainWindow.g.cs
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\App.g.cs
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook_MarkupCompile.cache
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook_MarkupCompile.lref
+D:\academy top\C# WPF\hw_03.01.2023_notebook\bin\Debug\hw_03.01.2023_notebook.exe.config
+D:\academy top\C# WPF\hw_03.01.2023_notebook\bin\Debug\hw_03.01.2023_notebook.exe
+D:\academy top\C# WPF\hw_03.01.2023_notebook\bin\Debug\hw_03.01.2023_notebook.pdb
+D:\academy top\C# WPF\hw_03.01.2023_notebook\bin\Debug\ICSharpCode.AvalonEdit.dll
+D:\academy top\C# WPF\hw_03.01.2023_notebook\bin\Debug\ICSharpCode.AvalonEdit.xml
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\FindWindow.baml
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\MainWindow.baml
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.g.resources
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03._01._2023_notebook.Properties.Resources.resources
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.csproj.GenerateResource.cache
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.csproj.CoreCompileInputs.cache
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.csproj.CopyComplete
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.exe
+D:\academy top\C# WPF\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.pdb
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.csproj.AssemblyReference.cache
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\FindWindow.g.cs
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\GotoWindow.g.cs
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\MainWindow.g.cs
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\ReplaceWindow.g.cs
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\App.g.cs
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook_MarkupCompile.cache
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook_MarkupCompile.lref
+D:\Projects\wpf c#\hw_03.01.2023_notebook\bin\Debug\hw_03.01.2023_notebook.exe.config
+D:\Projects\wpf c#\hw_03.01.2023_notebook\bin\Debug\hw_03.01.2023_notebook.exe
+D:\Projects\wpf c#\hw_03.01.2023_notebook\bin\Debug\hw_03.01.2023_notebook.pdb
+D:\Projects\wpf c#\hw_03.01.2023_notebook\bin\Debug\ICSharpCode.AvalonEdit.dll
+D:\Projects\wpf c#\hw_03.01.2023_notebook\bin\Debug\ICSharpCode.AvalonEdit.xml
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\FindWindow.baml
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\GotoWindow.baml
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\MainWindow.baml
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\ReplaceWindow.baml
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.g.resources
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03._01._2023_notebook.Properties.Resources.resources
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.csproj.GenerateResource.cache
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.csproj.CoreCompileInputs.cache
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.csproj.CopyComplete
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.exe
+D:\Projects\wpf c#\hw_03.01.2023_notebook\obj\Debug\hw_03.01.2023_notebook.pdb
